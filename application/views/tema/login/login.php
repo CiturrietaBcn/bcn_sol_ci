@@ -9,7 +9,7 @@
     <div class="col-md-12 d-none d-sm-block">
         <div id="titulo-sitio-01">
             <div class="titulo-sitio-01">
-                Bienvenidos a la plataforma <?= $this->parametrosInicio['software_nombre'] . " " . $this->configLocal['software_version'] ?>
+                Bienvenidos al sistema <?= $this->parametrosInicio['software_nombre'] . " " . $this->configLocal['software_version'] ?>
             </div>
         </div>
     </div>
